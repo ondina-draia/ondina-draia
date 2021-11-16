@@ -8,11 +8,10 @@
 
 ## Contact Me
 
-[<img height="48" src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/ondina-draia) &nbsp;
-
+[<img height="48" src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/ondina-draia) &nbsp;[<img height="48" src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://www.linkedin.com/in/tangra-ondina-draia-nicolau-ba0a15176/) &nbsp;
 ### Projects
 
-[<img height="48" src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png"/>](https://morning-lake-27673.herokuapp.com/) &nbsp;[<img height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"/>](https://gitlab.com/ondina-draia/snpsearcher) &nbsp;
+[<img height="48" src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png"/>](https://morning-lake-27673.herokuapp.com/) &nbsp;[<img height="48" src="https://www.saloninfirmier.fr/content/uploads/2018/07/logo-linkedin.png"/>](https://gitlab.com/ondina-draia/snpsearcher) &nbsp;
 
 <!--
 **ondina-draia/ondina-draia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
