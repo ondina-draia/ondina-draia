@@ -12,9 +12,7 @@
 
 ### Projects
 
-[<img height="48" src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png"/>](https://morning-lake-27673.herokuapp.com/) &nbsp;
-
-[<img height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"/>](https://gitlab.com/ondina-draia/snpsearcher) &nbsp;
+[<img height="48" src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png"/>](https://morning-lake-27673.herokuapp.com/) &nbsp;[<img height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"/>](https://gitlab.com/ondina-draia/snpsearcher) &nbsp;
 
 <!--
 **ondina-draia/ondina-draia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
