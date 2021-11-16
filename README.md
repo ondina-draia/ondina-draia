@@ -1,10 +1,10 @@
 ### Hi there everyone 👋 
 
-🎓 &nbsp;I’m a bioinformatics engineer and I have a Master of Software developement and data analysis (DLAD) degree. I've studied at Aix-Marseille University in Marseille, France :fr:
+🎓 &nbsp;I’m a bioinformatics engineer and I have a Master of Software developement and data analysis (DLAD) degree. I've studied at Aix-Marseille University in Marseille, France 
 
 🔭 I’m doing single-cell data analysis and I'm currently working at the I2MC (INSERM) research institute in Toulouse 
 
-🌎  &nbsp;From Romania :european_castle:  and living now in Toulouse :fr:
+🌎  &nbsp;From Romania :european_castle:  and living now in Toulouse 🥖
 
 ## Contact Me
 
