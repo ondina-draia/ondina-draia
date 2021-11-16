@@ -4,7 +4,7 @@
 
 🔭 I’m specialized in Single-cell data analysis and I'm currently working at the I2MC (INSERM) research institute in Toulouse
 
-🌎  &nbsp;From Romania :european_castle: &nbsp;living in Toulouse &nbsp:fr:
+🌎  &nbsp;From Romania :european_castle: &nbsp;living in Toulouse :fr:
 
 ## Contact Me
 
