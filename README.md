@@ -1,6 +1,6 @@
 ### Hi there everyone 👋 
 
-🎓 &nbsp;I’m a bioinformatics engineer and currently doing a Bioinformatics PhD in Neuroscience and I have a Master of Software developement and data analysis (DLAD) degree. I've studied at Aix-Marseille University in Marseille, France 
+🎓 &nbsp;I’m a bioinformatics engineer and currently doing a Bioinformatics PhD in Neuroscience, I have a Master degree of Software developement and data analysis (DLAD). I've studied at Aix-Marseille University in Marseille, France 
 
 🔭 I’m doing mainly single-cell RNA-seq data analysis 
 
