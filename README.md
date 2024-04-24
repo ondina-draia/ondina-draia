@@ -44,6 +44,11 @@ Zamora A, Nougué M, Verdu L, Balzan E, Draia-Nicolau T, Benuzzi E, Pujol F, Bai
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQ6_BRDHK_A4QR2CVD446JeOypz5ic9eGhkRgvCeWgw&s" width="80">
 <br>
 David F, Roussel E, Froment C, Draia-Nicolau T, Pujol F, Burlet-Schiltz O, Henras AK, Lacazette E, Morfoisse F, Tatin F, Diaz JJ, Catez F, Garmy-Susini B, Prats AC. Mitochondrial Ribosomal Protein MRPS15 Is a Component of Cytosolic Ribosomes and Regulates Translation in Stressed Cardiomyocytes. Int J Mol Sci. 2024 Mar 13;25(6):3250. doi: 10.3390/ijms25063250. PMID: 38542224; PMCID: PMC10970015.
+<br>
+<br>
+<img src="https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/f624014e8238d0b70668b2e1dcc65fef7457d17f/image/elsevier-non-solus.png" width="80">
+<br>
+Marchaud, E. & Draia-Nicolau, T. & Nougué, Manon & Prats, Anne-Catherine & Valet, P. & Lacazette, Eric & Garmy-Susini, B. & Tatin, Florence. (2022). Rôle de la protéine SVEP1 dans le remodelage vasculaire au cours de l’obésité. Nutrition Clinique et Métabolisme. 36. S83-S84. 10.1016/j.nupar.2021.12.163. 
 
 ## Contact Me
 
