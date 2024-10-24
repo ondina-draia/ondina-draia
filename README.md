@@ -4,7 +4,7 @@
 
 ### Hi there everyone 👋 
 
-I'm **Tangra Ondina Draia-Nicolau**, a **Bioinformatics Engineer** pursuing a **PhD in Neuroscience** with a focus on **Transcriptomics**. I hold a Master’s degree in **Software Development and Data Analysis (DLAD)** from Aix-Marseille University, France. Originally from **Romania**, I am now based in **Marseille**. 🇫🇷 🥖
+I'm a **Bioinformatics Engineer** pursuing a **PhD in Neuroscience** with a focus on **Transcriptomics**. I hold a Master’s degree in **Software Development and Data Analysis (DLAD)** from Aix-Marseille University, France. Originally from **Romania**, I am now based in **Marseille**. 🇫🇷 🥖
 
 ---
 
