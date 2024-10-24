@@ -29,7 +29,12 @@
 <a href="#"><img alt="SingleCellExperiement" src="https://img.shields.io/badge/SingleCellExperiment-blue"></a>
 
 <h4> Articles in which I participated </h4> 
-
+<br>
+(preprint)
+<br>
+Mathieu, Rémi & Corbieres, Lea & Draia-Nicolau, Tangra & Govindan, Annousha & Bensa, Vianney & Pallesi-Pocachard, Emilie & Silvagnoli, Lucas & Represa, Alfonso & Cardoso, Carlos & Telley, Ludovic & de Chevigny, Antoine. (2024). Inferring Ligand-Receptor Interactions between GABAergic and Glutamatergic neurons during somatosensory cortex development. 10.1101/2024.09.02.610245. 
+<br>
+<br>
 ![Embo Mol Med.](https://cdn.ncbi.nlm.nih.gov/corehtml/query/egifs/https:--www.embopress.org-pb-assets-embo-site-images-pubmed-embomm.gif) 
 <br>
 Creff J, Lamaa A, Benuzzi E, Balzan E, Pujol F, Draia-Nicolau T, Nougué M, Verdu L, Morfoisse F, Lacazette E, Valet P, Chaput B, Gross F, Gayon R, Bouillé P, Malloizel-Delaunay J, Bura-Rivière A, Prats AC, Garmy-Susini B. Apelin-VEGF-C mRNA delivery as therapeutic for the treatment of secondary lymphedema. EMBO Mol Med. 2024 Feb;16(2):386-415. doi: 10.1038/s44321-023-00017-7. Epub 2024 Jan 2. PMID: 38177539; PMCID: PMC10898257.
