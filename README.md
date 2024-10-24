@@ -30,7 +30,7 @@
 
 <h4> Articles in which I participated </h4> 
 <br>
-(preprint)
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQ6_BRDHK_A4QR2CVD446JeOypz5ic9eGhkRgvCeWgw&s](https://upload.wikimedia.org/wikipedia/commons/d/db/BioRxiv_logo.png)" width="80">
 <br>
 Mathieu, Rémi & Corbieres, Lea & Draia-Nicolau, Tangra & Govindan, Annousha & Bensa, Vianney & Pallesi-Pocachard, Emilie & Silvagnoli, Lucas & Represa, Alfonso & Cardoso, Carlos & Telley, Ludovic & de Chevigny, Antoine. (2024). Inferring Ligand-Receptor Interactions between GABAergic and Glutamatergic neurons during somatosensory cortex development. 10.1101/2024.09.02.610245. 
 <br>
