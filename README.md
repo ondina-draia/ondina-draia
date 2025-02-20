@@ -30,13 +30,15 @@ I'm a **Bioinformatics Engineer** pursuing a **PhD in Neuroscience** with a focu
 
 ### 📜 **Selected Publications:**
 
-**1.** *Mathieu, Rémi & Draia-Nicolau, Tangra* et al. (2024). **Inferring Ligand-Receptor Interactions between GABAergic and Glutamatergic neurons during somatosensory cortex development.** [BioRxiv](https://www.biorxiv.org/)
+**-** Gelot, A., Draia‐Nicolau, T. O., Mathieu, R., Silvagnoli, L., Watrin, F., Cardoso, C., Manent, J., de Chevigny, A., & Represa, A. (2025). **Cytomegalic parvalbumin neurons in fetal cases of hemimegalencephaly.** [Epilepsia](https://doi.org/10.1111/epi.18325)  
 
-**2.** *Creff J & Draia-Nicolau T* et al. (2024). **Apelin-VEGF-C mRNA delivery as therapeutic for the treatment of secondary lymphedema.** *EMBO Mol Med.*
+**-** *Mathieu, Rémi & Draia-Nicolau, Tangra* et al. (2024). **Inferring Ligand-Receptor Interactions between GABAergic and Glutamatergic neurons during somatosensory cortex development.** [BioRxiv](https://www.biorxiv.org/)
 
-**3.** *Zamora A & Draia-Nicolau T* et al. (2024). **15-Lipoxygenase promotes resolution of inflammation in lymphedema by controlling Treg cell function through IFN-β.** *Nature Communications.*
+**-** *Creff J & Draia-Nicolau T* et al. (2024). **Apelin-VEGF-C mRNA delivery as therapeutic for the treatment of secondary lymphedema.** *EMBO Mol Med.*
 
-**4.** *David F & Draia-Nicolau T* et al. (2024). **Mitochondrial Ribosomal Protein MRPS15 Is a Component of Cytosolic Ribosomes and Regulates Translation in Stressed Cardiomyocytes.** *Int J Mol Sci.*
+**-** *Zamora A & Draia-Nicolau T* et al. (2024). **15-Lipoxygenase promotes resolution of inflammation in lymphedema by controlling Treg cell function through IFN-β.** *Nature Communications.*
+
+**-** *David F & Draia-Nicolau T* et al. (2024). **Mitochondrial Ribosomal Protein MRPS15 Is a Component of Cytosolic Ribosomes and Regulates Translation in Stressed Cardiomyocytes.** *Int J Mol Sci.*
 
 ---
 
