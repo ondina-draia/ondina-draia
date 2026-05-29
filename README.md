@@ -18,10 +18,10 @@
 
 ### 🧠 About Me
 
-- 🎓 **PhD in Neuroscience** — focus on Transcriptomics
+- 🎓 **PhD in Neuroscience** — focus on Transcriptomics and Neuroscience
 - 🧬 **Bioinformatics Engineer** working on single-cell RNA-seq & spatial transcriptomics
 - 🏫 M.Sc. in **Software Development & Data Analysis (DLAD)** — Aix-Marseille University
-- 🌍 Originally from **Romania**, based in **Marseille** 🥖
+- 🌍 Originally from **Romania**, based in **France** 🥖
 
 ---
 
