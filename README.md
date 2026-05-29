@@ -1,49 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Ondina%20Draia-Nicolau&fontSize=40&fontColor=fff&animation=fadeIn&desc=Bioinformatics%20Engineer%20%7C%20PhD%20in%20Neuroscience&descSize=18&descAlignY=75"/>
 </p>
 
-### Hi there everyone 👋 
+<h3 align="center">Hi there! 👋 I'm Ondina</h3>
 
-I'm a **Bioinformatics Engineer** pursuing a **PhD in Neuroscience** with a focus on **Transcriptomics**. I hold a Master’s degree in **Software Development and Data Analysis (DLAD)** from Aix-Marseille University, France. Originally from **Romania**, I am now based in **Marseille**. 🇫🇷 🥖
+<p align="center">
+  <em>Bioinformatics Engineer · PhD candidate in Neuroscience (Transcriptomics) · Marseille, France 🇫🇷</em>
+</p>
 
----
-
-#### 🛠 **Programming Languages:**
-
-**Main:**
-[![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/)
-
-**Occasionally:**
-[![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-red)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-
----
-
-#### 🧬 **Bioinformatics Tools:**
-[![Seurat](https://img.shields.io/badge/Seurat-violet)](https://satijalab.org/seurat/)
-[![Scanpy](https://img.shields.io/badge/Scanpy-orange)](https://scanpy.readthedocs.io/)
-[![SingleCellExperiment](https://img.shields.io/badge/SingleCellExperiment-blue)](https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tangra-ondina-draia-nicolau-ba0a15176/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &​nbsp;
+  <a href="https://github.com/ondina-draia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📜 **Selected Publications:**
+### 🧠 About Me
 
-**-** Gelot, A., Draia‐Nicolau, T. O., Mathieu, R., Silvagnoli, L., Watrin, F., Cardoso, C., Manent, J., de Chevigny, A., & Represa, A. (2025). **Cytomegalic parvalbumin neurons in fetal cases of hemimegalencephaly.** [Epilepsia](https://doi.org/10.1111/epi.18325)  
-
-**-** *Mathieu, Rémi & Draia-Nicolau, Tangra* et al. (2024). **Inferring Ligand-Receptor Interactions between GABAergic and Glutamatergic neurons during somatosensory cortex development.** [BioRxiv](https://www.biorxiv.org/)
-
-**-** *Creff J & Draia-Nicolau T* et al. (2024). **Apelin-VEGF-C mRNA delivery as therapeutic for the treatment of secondary lymphedema.** *EMBO Mol Med.*
-
-**-** *Zamora A & Draia-Nicolau T* et al. (2024). **15-Lipoxygenase promotes resolution of inflammation in lymphedema by controlling Treg cell function through IFN-β.** *Nature Communications.*
-
-**-** *David F & Draia-Nicolau T* et al. (2024). **Mitochondrial Ribosomal Protein MRPS15 Is a Component of Cytosolic Ribosomes and Regulates Translation in Stressed Cardiomyocytes.** *Int J Mol Sci.*
+- 🎓 **PhD in Neuroscience** — focus on Transcriptomics
+- 🧬 **Bioinformatics Engineer** working on single-cell RNA-seq & spatial transcriptomics
+- 🏫 M.Sc. in **Software Development & Data Analysis (DLAD)** — Aix-Marseille University
+- 🌍 Originally from **Romania**, based in **Marseille** 🥖
 
 ---
 
-### 📫 **Connect with Me:**
+### 🛠 Tech Stack
 
-[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/ondina-draia) &nbsp;
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/tangra-ondina-draia-nicolau-ba0a15176/)
+**Languages:**
 
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9C033A?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Bioinformatics:**
+
+![Seurat](https://img.shields.io/badge/Seurat-7B2D8B?style=flat-square)
+![Scanpy](https://img.shields.io/badge/Scanpy-E07B00?style=flat-square)
+![SingleCellExperiment](https://img.shields.io/badge/SingleCellExperiment-2C5F8A?style=flat-square)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-3492C7?style=flat-square)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ondina-draia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &​nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondina-draia&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 📜 Selected Publications
+
+| Year | Title | Journal |
+|------|-------|---------|
+| 2026 | Mathieu R, **Draia-Nicolau T**, et al. — Uncovering the molecular logic of cortical wiring between neuronal subtypes across development through ligand–receptor inference | [*Nat Commun* 17, 1298](https://doi.org/10.1038/s41467-025-68059-8) |
+| 2025 | Gelot A, **Draia-Nicolau TO**, et al. — Cytomegalic parvalbumin neurons in fetal cases of hemimegalencephaly | [*Epilepsia*](https://doi.org/10.1111/epi.18325) |
+| 2024 | Creff J & **Draia-Nicolau T**, et al. — Apelin-VEGF-C mRNA delivery as therapeutic for secondary lymphedema | *EMBO Mol Med* |
+| 2024 | Zamora A & **Draia-Nicolau T**, et al. — 15-Lipoxygenase promotes resolution of inflammation in lymphedema | *Nature Communications* |
+| 2024 | David F & **Draia-Nicolau T**, et al. — Mitochondrial Ribosomal Protein MRPS15 is a component of cytosolic ribosomes | *Int J Mol Sci* |
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer"/>
+</p>
