@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20&text=Ondina%20Draia-Nicolau&fontSize=40&fontColor=fff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20&text=Tangra %20Draia-Nicolau&fontSize=40&fontColor=fff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">Bioinformatics Engineer · PhD candidate in Neuroscience (Transcriptomics) · Marseille 🇫🇷</h3>
+<h3 align="center">Bioinformatics Engineer · PhD candidate in Neuroscience (Transcriptomics) · France 🇫🇷</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tangra-ondina-draia-nicolau-ba0a15176/">
