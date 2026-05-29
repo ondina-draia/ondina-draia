@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/tangra-ondina-draia-nicolau-ba0a15176/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &​nbsp;
+
   <a href="https://github.com/ondina-draia">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -42,15 +42,6 @@
 ![SingleCellExperiment](https://img.shields.io/badge/SingleCellExperiment-2C5F8A?style=flat-square)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-3492C7?style=flat-square)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ondina-draia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
-  &​nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondina-draia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-</p>
 ---
 
 ### 📜 Selected Publications
