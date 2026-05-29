@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Ondina%20Draia-Nicolau&fontSize=40&fontColor=fff&animation=fadeIn&desc=Bioinformatics%20Engineer%20%7C%20PhD%20in%20Neuroscience&descSize=18&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20&text=Ondina%20Draia-Nicolau&fontSize=40&fontColor=fff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">Hi there! 👋 I'm Ondina</h3>
-
-<p align="center">
-  <em>Bioinformatics Engineer · PhD candidate in Neuroscience (Transcriptomics) · Marseille, France 🇫🇷</em>
-</p>
+<h3 align="center">Bioinformatics Engineer · PhD candidate in Neuroscience (Transcriptomics) · Marseille 🇫🇷</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tangra-ondina-draia-nicolau-ba0a15176/">
@@ -51,11 +47,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ondina-draia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ondina-draia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
   &​nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondina-draia&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondina-draia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
-
 ---
 
 ### 📜 Selected Publications
